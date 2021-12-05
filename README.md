@@ -1,4 +1,4 @@
 # DeepFaceLab_Colab
-Repository based: 
+Based on Notepad: 
 https://github.com/chervonij/DFL-Colab
 
